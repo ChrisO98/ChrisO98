@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisO98
-- 👀 I’m interested in Robotics Engineering, specifically the software ascpect.
-- 🌱 I’m currently learning and applying ROS to my capstone project. I plan to learn C++, data structures and algorithms, and improve my skills in python.
+- 👀 I’m interested in Robotics Engineering and Controls Engineering
+- 🌱 I’m currently improving my skills in Python and PLC programming Ladder Logic.
 
 <!---
 ChrisO98/ChrisO98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
